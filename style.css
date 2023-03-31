@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(81, 7, 83);
+}
+h1 {
+    text-shadow: 3px 5px 6px rgb(46, 0, 32)
+}
+h1 {
+    color:rgb(151, 8, 75)
+}
+h1 {
+    font-size: 53px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
+.limb {
+    text-decoration: none}
+    li {
+        font-size: 30px;
+    }
+ul {
+    font-size: 30px ;
+}
+img {
+    width: 750px;
+    height: 400px;
+    margin-left: 150px;
+}
+p::first-letter {
+    font-size: 290%;
+ }
+ p {
+    font: size 50px;
+    text-align: start;
+    color: rgb(226, 97, 226);
+ }
